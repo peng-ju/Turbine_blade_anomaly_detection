@@ -2,4 +2,4 @@ This is a brief introduction to the project. Limited by the NDA, more informatio
 
 <img src="/image/Turbine_blade.png"  width="600" height="300">
 
-<img src="/image/x_ray.png"  width="600" height="300">
+<img src="/image/x_ray.jpg"  width="600" height="300">
