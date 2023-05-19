@@ -1,4 +1,4 @@
-# Check our Symposium Poster at 
+# Check our Symposium Poster via the link below! 
 'https://datamine.purdue.edu/corporate/HowmetAerospace/TDM_Symposium2023_Poster_Howmet_turbine.pdf'
 
 This is a brief introduction to the project. Limited by the NDA, more information is not available.
